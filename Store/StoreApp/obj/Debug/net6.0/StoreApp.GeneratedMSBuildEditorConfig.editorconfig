@@ -8,13 +8,21 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StoreApp
 build_property.RootNamespace = StoreApp
-build_property.ProjectDir = d:\MVC\Store\StoreApp\
+build_property.ProjectDir = D:\MVC\Store\StoreApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\MVC\Store\StoreApp
+build_property.MSBuildProjectDirectory = D:\MVC\Store\StoreApp
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/MVC/Store/StoreApp/Views/Home/Index.cshtml]
+[D:/MVC/Store/StoreApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MVC/Store/StoreApp/Views/Product/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MVC/Store/StoreApp/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
