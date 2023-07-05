@@ -8,9 +8,6 @@
 
     @foreach (Product prd  in Model)
     {
-        <div>
-            <h3>@prd.ProductName</h3>
-            <p>@prd.Price</p>
-            <a href="/Product/Get/@prd.ProductId">GetDetails</a>
-        </div>
+        <partial name="_ProductCard" model="@prd"/>
+        
     }
