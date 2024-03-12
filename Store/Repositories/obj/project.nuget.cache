@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pgcy26HchVy2AQJut9VPZrR4MfAVfL8v2JLtXto0/ljjTSRi1sdzPM8BWeNgmhJX/YIAbKlZ82ZpmMcNTVV4wQ==",
+  "dgSpecHash": "k9ItLq33mQ9DVPDtTtIhZtuM2gHa514jBXmY1GIYdBVlZMF0PKmLj2+XagJ3SIuB1b/54awmEtc9RGMGjOm5+w==",
   "success": true,
-  "projectFilePath": "D:\\MVC\\Store\\Repositories\\Repositories.csproj",
+  "projectFilePath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erend\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\erend\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oc3DkmHYLx+SVagV6d4YD7Dus310l1zjmAvG8J8mjv3MSRRBVqwDP1hwwfx81/nRmc832Q+TS+w8al9nhzjmSw==",
+  "dgSpecHash": "ryp90NPP5lCyElq45t3aZw+qCSuYlmcZvnJDe4vATBhvvm8Q2G+LBbG9cg4LWf9zExICzPQym4a+qaVRzIe37A==",
   "success": true,
-  "projectFilePath": "D:\\MVC\\Store\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

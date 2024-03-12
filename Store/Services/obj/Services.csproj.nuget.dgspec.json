@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVC\\Store\\Services\\Services.csproj": {}
+    "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Services\\Services.csproj": {}
   },
   "projects": {
-    "D:\\MVC\\Store\\Entities\\Entities.csproj": {
+    "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC\\Store\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\MVC\\Store\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\erend\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC\\Store\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\erend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,7 +52,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,24 +62,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MVC\\Store\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC\\Store\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\MVC\\Store\\Repositories\\Repositories.csproj",
+        "projectPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\erend\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC\\Store\\Repositories\\obj\\",
+        "outputPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\erend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -84,14 +90,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MVC\\Store\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\MVC\\Store\\Entities\\Entities.csproj"
+              "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj"
               }
             }
           }
@@ -121,7 +128,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,24 +138,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\MVC\\Store\\Services\\Services.csproj": {
+    "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC\\Store\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\MVC\\Store\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\erend\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC\\Store\\Services\\obj\\",
+        "outputPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\erend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -156,17 +166,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MVC\\Store\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\MVC\\Store\\Entities\\Entities.csproj"
+              "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Entities\\Entities.csproj"
               },
-              "D:\\MVC\\Store\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\MVC\\Store\\Repositories\\Repositories.csproj"
+              "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\Repositories.csproj": {
+                "projectPath": "C:\\Users\\erend\\OneDrive\\Belgeler\\MvcCourse\\Store\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -186,7 +197,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -195,7 +207,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
